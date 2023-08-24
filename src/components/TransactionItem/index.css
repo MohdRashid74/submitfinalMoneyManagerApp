@@ -1,0 +1,22 @@
+.un-list-4 {
+  margin: 0px;
+  padding: 3px;
+}
+
+.list-4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  height: 48px;
+  list-style-type: none;
+  border: 1px solid #cbd5e1;
+  padding-left: 10px;
+}
+.button1 {
+  background-color: white;
+  border: 0px;
+}
+.delete-image {
+  height: 20px;
+}
